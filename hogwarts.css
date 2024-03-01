@@ -1,0 +1,85 @@
+body {
+    background-image: url(../imagenes/1225564.jpg);
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.titulo {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+
+.imagen {
+
+    height: 300%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.formulario {
+    color: white;
+    font-size: 200%;
+    text-decoration: none;
+    border: none;
+    text-align: center;
+
+}
+
+
+.subtitulo {
+    color: rgb(231, 235, 12);
+    text-align: center;
+    text-decoration: none;
+    font-size: 350%;
+    /* font-family: 'Cinzel Decorative', serif; */
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+
+
+.boton {
+    padding: 10px 20px;
+    background-color: #e5e908;
+    color: rgb(15, 14, 14);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.my-button:hover {
+    background-color: #e8f809;
+}
+
+.my-button:active {
+    background-color: #e4f30f;
+}
+
+
+
+
+.formulario1 {
+    background-color: transparent;
+    border-radius: 5px;
+    height: 40px;
+    border: solid 1px white;
+    color: white;
+    width: 200px;
+
+}
+
+.color {
+    color: white;
+}
